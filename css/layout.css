@@ -23,5 +23,33 @@
 }
 
 /* Posititoning Classes */
+.border_right {
+  width: 33.33%;
+  float: left;
+  border: none;
+}
 
+. {
+  border: none;
+  width: 33.33%;
+  float: left;
+}
 
+.figure {
+  width: 33.33%;
+  float: left;
+  border: none;
+}
+
+.clearfix:after {
+  content: ".";
+  display:block;
+  clear:both;
+  visibility: hidden;
+  height:0;
+  line-height:0;
+}
+
+/*.shadow {
+  float: left;
+}*/
