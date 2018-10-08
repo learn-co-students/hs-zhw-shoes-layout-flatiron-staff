@@ -24,4 +24,36 @@
 
 /* Positioning Classes */
 
+#wrapper_1 {
+  width: 70%;
+  display: block;
+  float: left;
+}
 
+.wrapper_2 {
+  width: 29%;
+  display: block;
+  float: left;
+}
+
+.shadow {
+  margin: 5px 10px;
+}
+
+.row_1 {
+  height: 550px;
+  overflow: hidden;
+}
+
+.deals {
+  float: left;
+  width: auto;
+}
+
+.shadow1 {
+  margin: 10px;
+  width: 30%;
+  float: left;
+  top: 10px;
+  display: block;
+}
